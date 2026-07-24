@@ -59,7 +59,7 @@ const schedule = [
     time: "09:50 am - 09:55 am",
     activity: "Vote of Thanks",
     venue: "Netaji Auditorium, S. N. Bose Auditorium, Raman & Bhatnagar Auditoriums (All Students), Kalidas Auditorium (Parents)",
-    description: "Prof. Arun Singh"
+    description: "Prof. Indrani Sen"
   },
   {
     date: "25-07-2026",
@@ -99,9 +99,9 @@ const schedule = [
   {
     date: "25-07-2026",
     time: "11:45 am - 12:00 pm",
-    activity: "Address by VP, TSG",
+    activity: "Address by Vice President TSG, Fun Yoga - Destress in 5 minutes",
     venue: "Netaji Auditorium, S. N. Bose Auditorium, Raman & Bhatnagar Auditoriums (All Students), Kalidas Auditorium (Parents)",
-    description: "Vice President, TSG"
+    description: "Vice President TSG, Prof. S. Singh"
   },
   {
     date: "25-07-2026",
@@ -217,7 +217,7 @@ const schedule = [
     time: "07:00 am - 07:30 am",
     activity: "Yoga and Wellness Performance",
     venue: "Swami Vivekananda Wellness Centre",
-    description: "Prof. Seema Singh & Prof. Richa Chopra"
+    description: "Prof. Richa Chopra"
   },
   {
     date: "27-07-2026",
