@@ -208,7 +208,7 @@ const schedule = [
     time: "04:00 pm - 06:30 pm",
     activity: "Gymkhana and Facilities, Introduction to Cultural Societies & Cultural Program",
     venue: "Netaji Auditorium, S. N. Bose Auditorium, Raman & Bhatnagar Auditoriums",
-    description: "President, TSG, Technology Students' Gymkhana"
+    description: "President, TSG, Vice President, TSG"
   },
 
   // --- DAY 4: 27-07-2026 ---
@@ -245,7 +245,7 @@ const schedule = [
     time: "02:30 pm - 04:30 pm",
     activity: "Campus Tour - Academic Area",
     venue: "",
-    description: "Student Welfare Group"
+    description: "Vice President, TSG"
   },
   {
     date: "27-07-2026",
